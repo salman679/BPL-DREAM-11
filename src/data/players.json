@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://picsum.photos/id/1011/300/200",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://picsum.photos/id/1012/300/200",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://picsum.photos/id/1013/300/200",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2200000
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://picsum.photos/id/1014/300/200",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 5,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://picsum.photos/id/1015/300/200",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://picsum.photos/id/1016/300/200",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak googly",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 7,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://picsum.photos/id/1018/300/200",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 1300000
+  },
+  {
+    "playerId": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://picsum.photos/id/1019/300/200",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 9,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://picsum.photos/id/1020/300/200",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 10,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "https://picsum.photos/id/1021/300/200",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": 11,
+    "name": "Moeen Ali",
+    "country": "England",
+    "image": "https://picsum.photos/id/1022/300/200",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 12,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "https://picsum.photos/id/1023/300/200",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 13,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://picsum.photos/id/1024/300/200",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2100000
+  },
+  {
+    "playerId": 14,
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "image": "https://picsum.photos/id/1025/300/200",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 15,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://picsum.photos/id/1026/300/200",
+    "role": "Wicketkeeper",
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 1700000
+  }
+]
