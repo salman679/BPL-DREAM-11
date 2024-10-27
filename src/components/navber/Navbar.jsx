@@ -1,16 +1,9 @@
-import { useState } from "react";
 import banner from "../../assets/banner-main.png";
 import shadow from "../../assets/bg-shadow.png";
 import dollar from "../../assets/dollar 1.svg";
 import logo from "../../assets/logo.png";
 
-export default function Navbar() {
-  const [credit, setCredit] = useState(0);
-
-  function handleCredit() {
-    setCredit(credit + 12000);
-  }
-
+export default function Navbar({ credit, handleCredit }) {
   return (
     <header className="container mx-auto px-24 mt-8">
       <div className="flex justify-between items-center">
