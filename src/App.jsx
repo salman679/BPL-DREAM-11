@@ -88,15 +88,25 @@ function App() {
         </div>
 
         {selectedButton ? (
-          <div className="flex flex-col gap-5 mt-7">
-            {selectedPlayers.map((selectedPlayer) => (
-              <SelectedPlayers
-                key={selectedPlayer.playerId}
-                selectedPlayer={selectedPlayer}
-                handleRemoveSelected={handleRemoveSelected}
-              />
-            ))}
-          </div>
+          <>
+            <div className="flex flex-col gap-5 mt-7">
+              {selectedPlayers.map((selectedPlayer) => (
+                <SelectedPlayers
+                  key={selectedPlayer.playerId}
+                  selectedPlayer={selectedPlayer}
+                  handleRemoveSelected={handleRemoveSelected}
+                />
+              ))}
+            </div>
+            <div className="border rounded-xl p-1 mt-16 inline-block">
+              <button
+                onClick={() => setSelectedButton(false)}
+                className="py-3 px-4 font-bold rounded-lg bg-[#E7FE29]"
+              >
+                Add More Player
+              </button>
+            </div>
+          </>
         ) : (
           <Players
             players={players}
