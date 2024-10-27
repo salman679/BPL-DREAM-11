@@ -17,7 +17,7 @@ function App() {
   }
 
   useEffect(() => {
-    fetch("/src/data/players.json")
+    fetch("/players.json")
       .then((res) => res.json())
       .then((data) => setPlayers(data));
   }, []);
